@@ -1,4 +1,4 @@
-import requests
+import requests, pprint, json
 from bs4 import BeautifulSoup
 
 # URL = "https://en.wikipedia.org/wiki/List_of_Hindu_temples_in_India"
@@ -115,4 +115,5 @@ for line in lines:
         if child.find('th') and (child.find('th').string == "District") and child.find('td') and child.find('td').string:
             temple["city"] = child.find('td').string
 
-    print(temple)
+    if temple["city"] != "" and temple["region"] != "" and temple["country"] != "" and temple["templeName"] != "" and temple["deity"] != "" and temple["religion"] != "" :
+        print(json.dumps(temple, indent=4, sort_keys=True))
