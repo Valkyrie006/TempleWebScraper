@@ -71,18 +71,34 @@ for line in lines:
         if child.find('th') and child.find('th').find('a') and child.find('th').find('a').string == "Affiliation"  and child.find('td') and child.find('td').find('a'):
             temple["religion"] = child.find('td').find('a').string
         
+        # religion
+        if child.find('th') and child.find('th').find('a') and child.find('th').find('a').string == "Affiliation"  and child.find('td') and child.find('td').string:
+            temple["religion"] = child.find('td').string
+        
         # deity
         if child.find('th') and child.find('th').find('a') and child.find('th').find('a').string == "Deity" and child.find('td') and child.find('td').find('a'):
             temple["deity"] = child.find('td').find('a').string
+
+        # deity
+        if child.find('th') and child.find('th').find('a') and child.find('th').find('a').string == "Deity" and child.find('td') and child.find('td').string:
+            temple["deity"] = child.find('td').string
+
+        # country
+        if child.find('th') and child.find('th').string == "Country" and child.find('td') and child.find('td').string :
+            temple["country"] = child.find('td').string
         
         # country
         if child.find('th') and child.find('th').string == "Country" and child.find('td') and child.find('td').find('a') :
             temple["country"] = child.find('td').find('a').string
-        
+                
+        # state
+        if child.find('th') and child.find('th').string == "State" and child.find('td') and child.find('td').string:
+            temple["region"] = child.find('td').string
+
         # state
         if child.find('th') and child.find('th').string == "State" and child.find('td') and child.find('td').find('a'):
             temple["region"] = child.find('td').find('a').string
-        
+
         # city(location in td -> a)
         if child.find('th') and (child.find('th').string == "Location") and child.find('td') and child.find('td').find('a'):
             temple["city"] = child.find('td').find('a').string
@@ -94,5 +110,9 @@ for line in lines:
         # city(district)
         if child.find('th') and (child.find('th').string == "District") and child.find('td') and child.find('td').find('a'):
             temple["city"] = child.find('td').find('a').string
+        
+        # city(district)
+        if child.find('th') and (child.find('th').string == "District") and child.find('td') and child.find('td').string:
+            temple["city"] = child.find('td').string
 
     print(temple)
