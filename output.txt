@@ -15,7 +15,7 @@
     "shortDescription": "",
     "templeName": "Sri Venkateswara Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Venkateswara_Temple,_Tirumala"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -33,7 +33,7 @@
     "shortDescription": "",
     "templeName": "Padmavathi Temple, Tiruchanur",
     "websiteUrl": "https://en.wikipedia.org//wiki/Padmavathi_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -51,7 +51,7 @@
     "shortDescription": "",
     "templeName": "Mallikarjuna Temple of Srisailam",
     "websiteUrl": "https://en.wikipedia.org//wiki/Mallikarjuna_Jyotirlinga"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -69,7 +69,7 @@
     "shortDescription": "",
     "templeName": "Srikalahasti Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Srikalahasteeswara_temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -87,7 +87,7 @@
     "shortDescription": "",
     "templeName": "Lakshmi Narasimha swamy temple, Penna Ahobilam",
     "websiteUrl": "https://en.wikipedia.org//wiki/Lakshmi_Narasimha_swamy_temple,_Penna_Ahobilam"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -105,7 +105,7 @@
     "shortDescription": "",
     "templeName": "Simhachalam Temple or Simanchala Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Varaha_Lakshmi_Narasimha_temple,_Simhachalam"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -123,7 +123,7 @@
     "shortDescription": "",
     "templeName": "Sri Varasidhi Vinayaka Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Vinayaka_Temple,_Kanipakam"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -141,7 +141,7 @@
     "shortDescription": "",
     "templeName": "Kanaka Durga Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Kanaka_Durga_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -159,7 +159,7 @@
     "shortDescription": "",
     "templeName": "Govindarajaswamy Temple, Tirupati",
     "websiteUrl": "https://en.wikipedia.org//wiki/Govindaraja_Temple,_Tirupati"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -177,7 +177,7 @@
     "shortDescription": "",
     "templeName": "Kapila Theertham",
     "websiteUrl": "https://en.wikipedia.org//wiki/Kapila_Theertham"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -195,7 +195,7 @@
     "shortDescription": "",
     "templeName": "Kalyana Venkateswara Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Kalyana_Venkateswara_Temple,_Srinivasamangapuram"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -213,7 +213,7 @@
     "shortDescription": "",
     "templeName": "Sri Kodandarama Swamy Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Kodandarama_Temple,_Tirupati"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -231,7 +231,7 @@
     "shortDescription": "",
     "templeName": "Sri Prasanna Venkateswara Swamy Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Prasanna_Venkateswara_Temple,_Appalayagunta"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -249,7 +249,7 @@
     "shortDescription": "",
     "templeName": "Varahaswamy Temple, Tirumala",
     "websiteUrl": "https://en.wikipedia.org//wiki/Varahaswamy_Temple,_Tirumala"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -267,7 +267,7 @@
     "shortDescription": "",
     "templeName": "Vedanarayana Temple, Nagalapuram",
     "websiteUrl": "https://en.wikipedia.org//wiki/Vedanarayana_Temple,_Nagalapuram"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -285,7 +285,7 @@
     "shortDescription": "",
     "templeName": "Veeranjaneya Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Veeranjaneya_Temple,_Ardhagiri"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -303,7 +303,7 @@
     "shortDescription": "",
     "templeName": "Sri Venkateswara Temple, Dwaraka Tirumala",
     "websiteUrl": "https://en.wikipedia.org//wiki/Venkateswara_Temple,_Dwaraka_Tirumala"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -321,7 +321,7 @@
     "shortDescription": "",
     "templeName": "Arasavalli Sun Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Suryanarayana_Temple,_Arasavalli"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -339,7 +339,7 @@
     "shortDescription": "",
     "templeName": "Kurmanathaswamy Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Kurmanathaswamy_Temple,_Srikurmam"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -357,7 +357,7 @@
     "shortDescription": "",
     "templeName": "Lakshmi Narasimha Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Lakshmi_Narasimha_Temple,_Mangalagiri"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -375,7 +375,7 @@
     "shortDescription": "",
     "templeName": "Veerabhadra Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Veerabhadra_Temple,_Lepakshi"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -393,7 +393,7 @@
     "shortDescription": "",
     "templeName": "Sri Ranganathaswamy  Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Ranganatha_Temple,_Nellore"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -411,7 +411,7 @@
     "shortDescription": "",
     "templeName": "Yaganti",
     "websiteUrl": "https://en.wikipedia.org//wiki/Yaganti_temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -429,7 +429,7 @@
     "shortDescription": "",
     "templeName": "Konetirayala Temple, Keelapatla",
     "websiteUrl": "https://en.wikipedia.org//wiki/Konetirayala_Temple,_Keelapatla"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -447,7 +447,7 @@
     "shortDescription": "",
     "templeName": "Pallikondeswara Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Pallikondeswara_Temple,_Surutapalli"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -465,7 +465,7 @@
     "shortDescription": "",
     "templeName": "Lakshmi Narasimha Temple, Antarvedi",
     "websiteUrl": "https://en.wikipedia.org//wiki/Sri_Lakshmi_Narasimha_Swamy_Temple,_Antarvedi"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -483,7 +483,7 @@
     "shortDescription": "",
     "templeName": "Sri Sunama Jakini Maatha",
     "websiteUrl": "https://en.wikipedia.org//wiki/Sri_Sunama_Jakini_Matha"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -501,7 +501,7 @@
     "shortDescription": "",
     "templeName": "Sri Chengalamma Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Chengalamma_Parameshwari_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -519,7 +519,7 @@
     "shortDescription": "",
     "templeName": "Amareswara swami Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Amararama"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -537,7 +537,7 @@
     "shortDescription": "",
     "templeName": "Bhimeswara Swamy Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Draksharama"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -555,7 +555,7 @@
     "shortDescription": "",
     "templeName": "Somarama Temple, Bhimavaram",
     "websiteUrl": "https://en.wikipedia.org//wiki/Somarama"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -573,7 +573,7 @@
     "shortDescription": "",
     "templeName": "Ksheera Ramalingeswara Swamy Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Ksheerarama"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -591,7 +591,7 @@
     "shortDescription": "",
     "templeName": "Kumararama Bhimesavara swami temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Kumararama"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -609,7 +609,7 @@
     "shortDescription": "",
     "templeName": "Shri Shri Bhairabi Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Bhairabi_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -627,7 +627,7 @@
     "shortDescription": "",
     "templeName": "Da Parbatia",
     "websiteUrl": "https://en.wikipedia.org//wiki/Dah_Parvatiya"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -645,7 +645,7 @@
     "shortDescription": "",
     "templeName": "Dirgheswari Mandir",
     "websiteUrl": "https://en.wikipedia.org//wiki/Dirgheshwari_temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -663,7 +663,7 @@
     "shortDescription": "",
     "templeName": "Doul Govinda Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Doul_Govinda_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -681,7 +681,7 @@
     "shortDescription": "",
     "templeName": "Hatimura Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Hatimura_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -699,7 +699,7 @@
     "shortDescription": "",
     "templeName": "Hayagriva Madhava Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Hayagriva_Madhava_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -717,7 +717,7 @@
     "shortDescription": "",
     "templeName": "Kamakhya Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Kamakhya_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -735,7 +735,7 @@
     "shortDescription": "",
     "templeName": "Madhab Than",
     "websiteUrl": "https://en.wikipedia.org//wiki/Madhab_Than"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -753,7 +753,7 @@
     "shortDescription": "",
     "templeName": "Negheriting Shiva Doul",
     "websiteUrl": "https://en.wikipedia.org//wiki/Negheriting_Shiva_Doul"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -771,7 +771,7 @@
     "shortDescription": "",
     "templeName": "Sivadol",
     "websiteUrl": "https://en.wikipedia.org//wiki/Sivadol"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -789,7 +789,7 @@
     "shortDescription": "",
     "templeName": "Sukreswar Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Sukreswar_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -807,7 +807,7 @@
     "shortDescription": "",
     "templeName": "Aami Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Aami_Mandir"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -825,7 +825,7 @@
     "shortDescription": "",
     "templeName": "Baba Garib Asthan Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Baba_Garib_Sthan_Mandir"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -843,7 +843,7 @@
     "shortDescription": "",
     "templeName": "Shri Mahaprabhuji's Baithakji",
     "websiteUrl": "https://en.wikipedia.org//wiki/Baithakji_Hajipur"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -861,7 +861,7 @@
     "shortDescription": "",
     "templeName": null,
     "websiteUrl": "https://en.wikipedia.org//wiki/Maa_Tara_Chandi_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -879,7 +879,7 @@
     "shortDescription": "",
     "templeName": "Chandika Asthan",
     "websiteUrl": "https://en.wikipedia.org//wiki/Chandika_Sthan"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -897,7 +897,7 @@
     "shortDescription": "",
     "templeName": "ISKCON Patna",
     "websiteUrl": "https://en.wikipedia.org//wiki/ISKCON_Temple_Patna"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -915,7 +915,7 @@
     "shortDescription": "",
     "templeName": "Khudneshwar Asthan, Morwa",
     "websiteUrl": "https://en.wikipedia.org//wiki/Khudneshwar_Asthan_Morwa"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -933,7 +933,7 @@
     "shortDescription": "",
     "templeName": "Lal Keshwar Shiv Mandir",
     "websiteUrl": "https://en.wikipedia.org//wiki/Lal_Keshwar_Shiv_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -951,7 +951,7 @@
     "shortDescription": "",
     "templeName": "Mahavir Mandir",
     "websiteUrl": "https://en.wikipedia.org//wiki/Mahavir_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -969,7 +969,7 @@
     "shortDescription": "",
     "templeName": "Mangala Gauri Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Mangla_Gauri_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -987,7 +987,7 @@
     "shortDescription": "",
     "templeName": "Mundeshwari Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Mundeshwari_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1005,7 +1005,7 @@
     "shortDescription": "",
     "templeName": "Pataleshwar Mandir",
     "websiteUrl": "https://en.wikipedia.org//wiki/Pataleshwar_Mandir"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1023,7 +1023,7 @@
     "shortDescription": "",
     "templeName": "Patan Devi Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Patan_Devi"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1041,7 +1041,7 @@
     "shortDescription": "",
     "templeName": "Ramchaura Mandir",
     "websiteUrl": "https://en.wikipedia.org//wiki/Ramchaura_Mandir"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1059,7 +1059,7 @@
     "shortDescription": "",
     "templeName": "Viraat Ramayan Mandir",
     "websiteUrl": "https://en.wikipedia.org//wiki/Viraat_Ramayan_Mandir"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1077,7 +1077,7 @@
     "shortDescription": "",
     "templeName": "Vishnupada Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Vishnupad_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1095,7 +1095,7 @@
     "shortDescription": "",
     "templeName": "Ashtabhuji Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Ashtabhuji_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1113,7 +1113,7 @@
     "shortDescription": "",
     "templeName": "Bhoramdeo Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Bhoramdeo_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1131,7 +1131,7 @@
     "shortDescription": "",
     "templeName": "Danteshwari Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Danteshwari_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1149,7 +1149,7 @@
     "shortDescription": "",
     "templeName": "Maa Pitambara (Bagalamukhi) Temple, Amleshwar",
     "websiteUrl": "https://en.wikipedia.org//wiki/Maa_Pitambara_(Bagalamukhi)_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1167,7 +1167,7 @@
     "shortDescription": "",
     "templeName": "Mahadev Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Mahadev_Temple,_Deobaloda"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1185,7 +1185,7 @@
     "shortDescription": "",
     "templeName": "Mahamaya Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Mahamaya_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1203,7 +1203,7 @@
     "shortDescription": "",
     "templeName": "Mahamaya Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Mahamaya_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1221,7 +1221,7 @@
     "shortDescription": "",
     "templeName": "ISKCON New Delhi",
     "websiteUrl": "https://en.wikipedia.org//wiki/ISKCON_Temple_Delhi"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1239,7 +1239,7 @@
     "shortDescription": "",
     "templeName": "Shri Jhandewalan Mandir",
     "websiteUrl": "https://en.wikipedia.org//wiki/Jhandewalan_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1257,7 +1257,7 @@
     "shortDescription": "",
     "templeName": "Shri Kalkaji Mandir",
     "websiteUrl": "https://en.wikipedia.org//wiki/Kalka_Mandir,_Delhi"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1275,7 +1275,7 @@
     "shortDescription": "",
     "templeName": "Akshardham",
     "websiteUrl": "https://en.wikipedia.org//wiki/Akshardham_(Gandhinagar)"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1293,7 +1293,7 @@
     "shortDescription": "",
     "templeName": "Bhalka Tirtha",
     "websiteUrl": "https://en.wikipedia.org//wiki/Bhalka"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1311,7 +1311,7 @@
     "shortDescription": "",
     "templeName": "Camp Hanuman Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Camp_Hanuman_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1329,7 +1329,7 @@
     "shortDescription": "",
     "templeName": "Dwarkadhish Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Dwarkadhish_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1347,7 +1347,7 @@
     "shortDescription": "",
     "templeName": "EME Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/EME_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1365,7 +1365,7 @@
     "shortDescription": "",
     "templeName": "Kashtabhanjandev Hanuman Mandir",
     "websiteUrl": "https://en.wikipedia.org//wiki/Hanuman_temple,_Salangpur"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1383,7 +1383,7 @@
     "shortDescription": "",
     "templeName": "Jagannath Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Jagannath_Temple,_Ahmedabad"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1401,7 +1401,7 @@
     "shortDescription": "",
     "templeName": "Kalika Mata Temple, Pavagadh",
     "websiteUrl": "https://en.wikipedia.org//wiki/Kalika_Mata_Temple,_Pavagadh"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1419,7 +1419,7 @@
     "shortDescription": "",
     "templeName": "Shree Swaminarayan Mandir Kalupur Ahmedabad",
     "websiteUrl": "https://en.wikipedia.org//wiki/Kalupur_Swaminarayan_Mandir"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1437,7 +1437,7 @@
     "shortDescription": "",
     "templeName": "Nageshwar Jyotirlinga",
     "websiteUrl": "https://en.wikipedia.org//wiki/Nageshvara_Jyotirlinga"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1455,7 +1455,7 @@
     "shortDescription": "",
     "templeName": "Shamlaji no medo",
     "websiteUrl": "https://en.wikipedia.org//wiki/Shamlaji"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1473,7 +1473,7 @@
     "shortDescription": "",
     "templeName": "Shiva temple, Kera",
     "websiteUrl": "https://en.wikipedia.org//wiki/Shiva_Temple,_Kera"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1491,7 +1491,7 @@
     "shortDescription": "",
     "templeName": "Shri Swaminarayan Mandir, Bhuj",
     "websiteUrl": "https://en.wikipedia.org//wiki/Shri_Swaminarayan_Mandir,_Bhuj_(New_temple)"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1509,7 +1509,7 @@
     "shortDescription": "",
     "templeName": "Shri Swaminarayan Mandir, Gadhada",
     "websiteUrl": "https://en.wikipedia.org//wiki/Shri_Swaminarayan_Mandir,_Gadhada"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1527,7 +1527,7 @@
     "shortDescription": "",
     "templeName": "Somnath temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Somnath"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1545,7 +1545,7 @@
     "shortDescription": "",
     "templeName": "Umiya Mata Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Umiya_Temple,_Unjha"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1563,7 +1563,7 @@
     "shortDescription": "",
     "templeName": "Mata Mansa Devi Mandir",
     "websiteUrl": "https://en.wikipedia.org//wiki/Mata_Mansa_Devi_Mandir"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1581,7 +1581,7 @@
     "shortDescription": "",
     "templeName": "Agroha Dham",
     "websiteUrl": "https://en.wikipedia.org//wiki/Agroha_Dham"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1599,7 +1599,7 @@
     "shortDescription": "",
     "templeName": "Kartikeya Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Kartikeya_Temple,_Pehowa"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1617,7 +1617,7 @@
     "shortDescription": "",
     "templeName": "Baijnath Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Baijnath_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1635,7 +1635,7 @@
     "shortDescription": "",
     "templeName": "Maa Chintpurni",
     "websiteUrl": "https://en.wikipedia.org//wiki/Chintpurni"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1653,7 +1653,7 @@
     "shortDescription": "",
     "templeName": "Hidimba Devi Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Hidimba_Devi_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1671,7 +1671,7 @@
     "shortDescription": "",
     "templeName": "Raghunath Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Raghunath_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1689,7 +1689,7 @@
     "shortDescription": "",
     "templeName": "Kangra Devi / Maa Vajreshwari",
     "websiteUrl": "https://en.wikipedia.org//wiki/Bajreshwari_Mata_Temple,_Kangra"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1707,7 +1707,7 @@
     "shortDescription": "",
     "templeName": "Amarnath Cave Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Amarnath_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1725,7 +1725,7 @@
     "shortDescription": "",
     "templeName": "Raghunath Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Raghunath_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1743,7 +1743,7 @@
     "shortDescription": "",
     "templeName": "Shankaracharya Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Shankaracharya_temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1761,7 +1761,7 @@
     "shortDescription": "",
     "templeName": "Martand Sun Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Martand_Sun_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1779,7 +1779,7 @@
     "shortDescription": "",
     "templeName": "Vaidyanath Jyotirlinga, Deoghar",
     "websiteUrl": "https://en.wikipedia.org//wiki/Baidyanath_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1797,7 +1797,7 @@
     "shortDescription": "",
     "templeName": "Chhinnamastika Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Chhinnamasta_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1815,7 +1815,7 @@
     "shortDescription": "",
     "templeName": "Maa Dewri Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Maa_Dewri_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1833,7 +1833,7 @@
     "shortDescription": "",
     "templeName": "Jagannath Temple, Ranchi",
     "websiteUrl": "https://en.wikipedia.org//wiki/Jagannath_Temple,_Ranchi"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1851,7 +1851,7 @@
     "shortDescription": "",
     "templeName": "Sri Sri Kalika Maharani Temple, Bokaro",
     "websiteUrl": "https://en.wikipedia.org//wiki/Sri_Sri_Kalika_Maharani_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1869,7 +1869,7 @@
     "shortDescription": "",
     "templeName": "Karneshwar Dham, Karon",
     "websiteUrl": "https://en.wikipedia.org//wiki/Karneshwar_Dham"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1887,7 +1887,7 @@
     "shortDescription": "",
     "templeName": "Harihar Dham",
     "websiteUrl": "https://en.wikipedia.org//wiki/Harihar_Dham"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1905,7 +1905,7 @@
     "shortDescription": "",
     "templeName": "Gayatri Gyan Mandir",
     "websiteUrl": "https://en.wikipedia.org//wiki/Gayatri_Gyan_Mandir,_Mahuda"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1923,7 +1923,7 @@
     "shortDescription": "",
     "templeName": "Maluti temples",
     "websiteUrl": "https://en.wikipedia.org//wiki/Maluti_temples"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1941,7 +1941,7 @@
     "shortDescription": "",
     "templeName": "Bindudham",
     "websiteUrl": "https://en.wikipedia.org//wiki/Bindudham"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1959,7 +1959,7 @@
     "shortDescription": "",
     "templeName": "Anegudde",
     "websiteUrl": "https://en.wikipedia.org//wiki/Anegudde"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1977,7 +1977,7 @@
     "shortDescription": "",
     "templeName": "Annapoorneshwari Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Annapoorneshwari_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -1995,7 +1995,7 @@
     "shortDescription": "",
     "templeName": "Chamundeshwari Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Chamundeswari_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2013,7 +2013,7 @@
     "shortDescription": "",
     "templeName": "Chennakeshava Temple, Belur",
     "websiteUrl": "https://en.wikipedia.org//wiki/Chennakesava_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2031,7 +2031,7 @@
     "shortDescription": "",
     "templeName": "Dharmaraya Swamy Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Dharmaraya_Swamy_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2049,7 +2049,7 @@
     "shortDescription": "",
     "templeName": "Gavi Gangadhareshwara Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Gavi_Gangadhareshwara_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2067,7 +2067,7 @@
     "shortDescription": "",
     "templeName": "Hoysalesvara Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Hoysaleswara_temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2085,7 +2085,7 @@
     "shortDescription": "",
     "templeName": "ISKCON Temple Bangalore",
     "websiteUrl": "https://en.wikipedia.org//wiki/ISKCON_Bangalore"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2103,7 +2103,7 @@
     "shortDescription": "",
     "templeName": "Kukke Subramanya Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Kukke_Subramanya"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2121,7 +2121,7 @@
     "shortDescription": "",
     "templeName": "Dodda Basavana Gudi",
     "websiteUrl": "https://en.wikipedia.org//wiki/Basavanagudi_Nandi_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2139,7 +2139,7 @@
     "shortDescription": "",
     "templeName": "Sri Venkataramana Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Padutirupathi"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2157,7 +2157,7 @@
     "shortDescription": "",
     "templeName": "Dharmasthala Temple\n(\u0ca7\u0cb0\u0ccd\u0cae\u0cb8\u0ccd\u0ca5\u0cb3)",
     "websiteUrl": "https://en.wikipedia.org//wiki/Dharmasthala_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2175,7 +2175,7 @@
     "shortDescription": "",
     "templeName": "Shri Krishna Temple Udupi",
     "websiteUrl": "https://en.wikipedia.org//wiki/Udupi_Sri_Krishna_Matha"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2193,7 +2193,7 @@
     "shortDescription": "",
     "templeName": "Virupaksha Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Virupaksha_Temple,_Hampi"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2211,7 +2211,7 @@
     "shortDescription": "",
     "templeName": "Srikanteshwara Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Srikanteshwara_Temple,_Nanjangud"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2229,7 +2229,7 @@
     "shortDescription": "",
     "templeName": "Sri Ranganatha Swamy temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Ranganathaswamy_Temple,_Srirangapatna"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2247,7 +2247,7 @@
     "shortDescription": "",
     "templeName": "Kukke Subramanya Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Kukke_Subramanya_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2265,7 +2265,7 @@
     "shortDescription": "",
     "templeName": "Ragigudda Anjaneya Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Ragigudda_Anjaneya_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2283,7 +2283,7 @@
     "shortDescription": "",
     "templeName": "Ambalappuzha Sree Krishna Swamy Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Ambalappuzha_Sri_Krishna_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2301,7 +2301,7 @@
     "shortDescription": "",
     "templeName": "Ananthapura Lake Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Ananthapura_Lake_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2319,7 +2319,7 @@
     "shortDescription": "",
     "templeName": "Aranmula Parthasarathy Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Aranmula_Parthasarathy_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2337,7 +2337,7 @@
     "shortDescription": "",
     "templeName": "Arattupuzha Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Arattupuzha_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2355,7 +2355,7 @@
     "shortDescription": "",
     "templeName": "Attukal Devi Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Attukal_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2373,7 +2373,7 @@
     "shortDescription": "",
     "templeName": "Chottanikkara Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Chottanikkara_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2391,7 +2391,7 @@
     "shortDescription": "",
     "templeName": "Ettumanoor Sree Mahadevan Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Ettumanoor_Mahadevar_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2409,7 +2409,7 @@
     "shortDescription": "",
     "templeName": "Guruvayoor Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Guruvayur_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2427,7 +2427,7 @@
     "shortDescription": "",
     "templeName": "Kanadikavu  Shree Vishnumaya Kuttichathan Swamy temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Kanadikavu_Shree_Vishnumaya_Kuttichathan_Swamy_temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2445,7 +2445,7 @@
     "shortDescription": "",
     "templeName": "Kodungallur Sree Kurumba Bhagavati Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Kodungallur_Bhagavathy_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2463,7 +2463,7 @@
     "shortDescription": "",
     "templeName": "Kottiyoor Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Kottiyoor_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2481,7 +2481,7 @@
     "shortDescription": "",
     "templeName": "Koodalmanikyam Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Koodalmanikyam_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2499,7 +2499,7 @@
     "shortDescription": "",
     "templeName": "Lokanarkavu Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Lokanarkavu_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2517,7 +2517,7 @@
     "shortDescription": "",
     "templeName": "Mannarasala Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Mannarasala_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2535,7 +2535,7 @@
     "shortDescription": "",
     "templeName": "Parassinikadavu Muthappan Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Muthappan_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2553,7 +2553,7 @@
     "shortDescription": "",
     "templeName": "Oachira Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Oachira_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2571,7 +2571,7 @@
     "shortDescription": "",
     "templeName": "Peruvanam Mahadev Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Peruvanam_Mahadeva_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2589,7 +2589,7 @@
     "shortDescription": "",
     "templeName": "Padmanabhaswamy Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Padmanabhaswamy_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2607,7 +2607,7 @@
     "shortDescription": "",
     "templeName": "Pazhavangadi Ganapathy Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Pazhavangadi_Ganapathy_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2625,7 +2625,7 @@
     "shortDescription": "",
     "templeName": "Shree Rajarajeshwaram",
     "websiteUrl": "https://en.wikipedia.org//wiki/Rajarajeshwara_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2643,7 +2643,7 @@
     "shortDescription": "",
     "templeName": "Sabarimala Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Sabarimala_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2661,7 +2661,7 @@
     "shortDescription": "",
     "templeName": "Sree Poornathrayesa Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Sree_Poornathrayeesa_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2679,7 +2679,7 @@
     "shortDescription": "",
     "templeName": "Thirunakkara Sree Mahadevar Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Thirunakkara_Sree_Mahadevar_Temple,_Kottayam"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2697,7 +2697,7 @@
     "shortDescription": "",
     "templeName": "Thriprayar Shree Ramaswami Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Thriprayar_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2715,7 +2715,7 @@
     "shortDescription": "",
     "templeName": "Thirunavaya Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Tirunavaya_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2733,7 +2733,7 @@
     "shortDescription": "",
     "templeName": "Vadakkumnathan Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Vadakkunnathan_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2751,7 +2751,7 @@
     "shortDescription": "",
     "templeName": "Vaikom Mahadeva Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Vaikom_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2769,7 +2769,7 @@
     "shortDescription": "",
     "templeName": "Vazhappally Maha Siva Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Vazhappally_Maha_Siva_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2787,7 +2787,7 @@
     "shortDescription": "",
     "templeName": "Mahakaaleshwar or Mahakaleshwar Jyotirlinga",
     "websiteUrl": "https://en.wikipedia.org//wiki/Mahakaleshwar_Jyotirlinga"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2805,7 +2805,7 @@
     "shortDescription": "",
     "templeName": "Kal Bahirav temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Kal_Bhairav_temple,_Ujjain"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2823,7 +2823,7 @@
     "shortDescription": "",
     "templeName": "Omkareshwar Jyothirlinga",
     "websiteUrl": "https://en.wikipedia.org//wiki/Omkareshwar"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2841,7 +2841,7 @@
     "shortDescription": "",
     "templeName": "Kandariya Mahadeva Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Kandariya_Mahadeva"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2859,7 +2859,7 @@
     "shortDescription": "",
     "templeName": "Pashupatinath Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Pashupatinath_Temple,_Mandsaur"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2877,7 +2877,7 @@
     "shortDescription": "",
     "templeName": "Tigawa Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Tigawa"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2895,7 +2895,7 @@
     "shortDescription": "",
     "templeName": "Kandariya Mahadeva Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Kandariya_Mahadeva_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2913,7 +2913,7 @@
     "shortDescription": "",
     "templeName": "Devi Jagdambi Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Devi_Jagadambi_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2931,7 +2931,7 @@
     "shortDescription": "",
     "templeName": "Sasbahu temple, Gwalior",
     "websiteUrl": "https://en.wikipedia.org//wiki/Sas-Bahu_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2949,7 +2949,7 @@
     "shortDescription": "",
     "templeName": "Chaturbhuj Temple (Orchha)",
     "websiteUrl": "https://en.wikipedia.org//wiki/Chaturbhuj_Temple_(Orchha)"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2967,7 +2967,7 @@
     "shortDescription": "",
     "templeName": "Shri Swaminarayan Mandir",
     "websiteUrl": "https://en.wikipedia.org//wiki/Shri_Swaminarayan_Mandir,_Mumbai"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -2985,7 +2985,7 @@
     "shortDescription": "",
     "templeName": "Bh\u012bm\u0101shankar Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Bhimashankar_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3003,7 +3003,7 @@
     "shortDescription": "",
     "templeName": "Bhuleshwar Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Bhuleshwar_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3021,7 +3021,7 @@
     "shortDescription": "",
     "templeName": null,
     "websiteUrl": "https://en.wikipedia.org//wiki/Chaturshringi_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3039,7 +3039,7 @@
     "shortDescription": "",
     "templeName": "Dashabhuja Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Dashabhuja_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3057,7 +3057,7 @@
     "shortDescription": "",
     "templeName": "Ekvira Aai Mandir",
     "websiteUrl": "https://en.wikipedia.org//wiki/Ekvira_Mata_Mandir"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3075,7 +3075,7 @@
     "shortDescription": "",
     "templeName": "Grishneshwar Jyotirlinga Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Grishneshwar_temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3093,7 +3093,7 @@
     "shortDescription": "",
     "templeName": "Kailasa Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Ellora_Kailasanathar_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3111,7 +3111,7 @@
     "shortDescription": "",
     "templeName": "Shri Kopineshwar Temple (Thane)",
     "websiteUrl": "https://en.wikipedia.org//wiki/Kopineshwar_Mandir,_Thane"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3129,7 +3129,7 @@
     "shortDescription": "",
     "templeName": "Shri Mayureshwar Mandir, Morgaon",
     "websiteUrl": "https://en.wikipedia.org//wiki/Morgaon_Ganesha_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3147,7 +3147,7 @@
     "shortDescription": "",
     "templeName": "Mahalakshmi temple of Kolhapur",
     "websiteUrl": "https://en.wikipedia.org//wiki/Mahalakshmi_Temple,_Kolhapur"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3165,7 +3165,7 @@
     "shortDescription": "",
     "templeName": "Mumba Devi Temple Complex",
     "websiteUrl": "https://en.wikipedia.org//wiki/Mumba_Devi_Mandir"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3183,7 +3183,7 @@
     "shortDescription": "",
     "templeName": "Vithoba Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Vithoba_Temple,_Pandharpur"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3201,7 +3201,7 @@
     "shortDescription": "",
     "templeName": "Saptashrungi Devi Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Saptashrungi"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3219,7 +3219,7 @@
     "shortDescription": "",
     "templeName": "Sarasbaug Ganpati Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Sarasbaug_Ganpati"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3237,7 +3237,7 @@
     "shortDescription": "",
     "templeName": "Shri Swaminarayan Mandir",
     "websiteUrl": "https://en.wikipedia.org//wiki/Shree_Swaminarayan_Temple_Mumbai"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3255,7 +3255,7 @@
     "shortDescription": "",
     "templeName": "Shree Padmalaya Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Padmalaya"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3273,7 +3273,7 @@
     "shortDescription": "",
     "templeName": "Siddheshwar, and Ratneshwar Temple, Latur",
     "websiteUrl": "https://en.wikipedia.org//wiki/Siddheshwar_%26_Ratneshwar_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3291,7 +3291,7 @@
     "shortDescription": "",
     "templeName": "Siddhivinayak Mahaganapati Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Siddhivinayak_Mahaganapati_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3309,7 +3309,7 @@
     "shortDescription": "",
     "templeName": "Siddhi Vinayak Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Siddhivinayak_Temple,_Siddhatek"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3327,7 +3327,7 @@
     "shortDescription": "",
     "templeName": "Shree Siddhivinayak Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Siddhivinayak_temple_(Mumbai)"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3345,7 +3345,7 @@
     "shortDescription": "",
     "templeName": "Trimbakeshwar Shiva Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Trimbakeshwar_Shiva_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3363,7 +3363,7 @@
     "shortDescription": "",
     "templeName": "Tulja Bhavani Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Tulja_Bhavani_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3381,7 +3381,7 @@
     "shortDescription": "",
     "templeName": "Shree Govindajee Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Shree_Govindajee_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3399,7 +3399,7 @@
     "shortDescription": "",
     "templeName": "Gopinath Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Ningthoukhong_Gopinath_Mandir"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3417,7 +3417,7 @@
     "shortDescription": "",
     "templeName": "Ananta Vasudeva Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Ananta_Vasudeva_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3435,7 +3435,7 @@
     "shortDescription": "",
     "templeName": "Astasambhu Siva Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Astasambhu_Siva_Temples"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3453,7 +3453,7 @@
     "shortDescription": "",
     "templeName": "Baladevjew Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Baladevjew_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3471,7 +3471,7 @@
     "shortDescription": "",
     "templeName": "Bhringeswara Shiva Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Bhringesvara_Siva_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3489,7 +3489,7 @@
     "shortDescription": "",
     "templeName": "Bharati Matha",
     "websiteUrl": "https://en.wikipedia.org//wiki/Bharati_Matha"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3507,7 +3507,7 @@
     "shortDescription": "",
     "templeName": "Budha Deula",
     "websiteUrl": "https://en.wikipedia.org//wiki/Budha_Deula"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3525,7 +3525,7 @@
     "shortDescription": "",
     "templeName": "Byamokesvara Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Byamokesvara_temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3543,7 +3543,7 @@
     "shortDescription": "",
     "templeName": "Brahmeswara Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Brahmeswara_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3561,7 +3561,7 @@
     "shortDescription": "",
     "templeName": "Brahma Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Brahma_Temple,_Bindusagar"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3579,7 +3579,7 @@
     "shortDescription": "",
     "templeName": "Chakreswara Shiva temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Chakreshvari_Siva_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3597,7 +3597,7 @@
     "shortDescription": "",
     "templeName": "Chakresvara Tank",
     "websiteUrl": "https://en.wikipedia.org//wiki/Chakresvara_Tank"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3615,7 +3615,7 @@
     "shortDescription": "",
     "templeName": "Charchika Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Charchika_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3633,7 +3633,7 @@
     "shortDescription": "",
     "templeName": "Chateswar Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Chateshwar_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3651,7 +3651,7 @@
     "shortDescription": "",
     "templeName": "Dishiswara Shiva Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Dishisvara_Siva_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3669,7 +3669,7 @@
     "shortDescription": "",
     "templeName": "Dhabalesvara Siva Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Dhabaleswar"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3687,7 +3687,7 @@
     "shortDescription": "",
     "templeName": "Shree Jagannath Temple at Puri",
     "websiteUrl": "https://en.wikipedia.org//wiki/Jagannath_Temple,_Puri"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3705,7 +3705,7 @@
     "shortDescription": "",
     "templeName": "Jagannath Temple, Koraput",
     "websiteUrl": "https://en.wikipedia.org//wiki/Jagannath_Temple,_Koraput"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3723,7 +3723,7 @@
     "shortDescription": "",
     "templeName": "Jagannath Temple, Baripada",
     "websiteUrl": "https://en.wikipedia.org//wiki/Jagannath_Temple,_Baripada"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3741,7 +3741,7 @@
     "shortDescription": "",
     "templeName": "Jalesvara Siva Temple Precinct",
     "websiteUrl": "https://en.wikipedia.org//wiki/Jaleswar_Siva_Temple_Precinct"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3759,7 +3759,7 @@
     "shortDescription": "",
     "templeName": "Kapilesvara Siva temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Kapilesvara_Siva_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3777,7 +3777,7 @@
     "shortDescription": "",
     "templeName": "Kalabhairavi Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Kalabhairavi_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3795,7 +3795,7 @@
     "shortDescription": "",
     "templeName": "Kalikadevi Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Kalikadevi_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3813,7 +3813,7 @@
     "shortDescription": "",
     "templeName": "Maa Mangala Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Kakatpur_Mangala_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3831,7 +3831,7 @@
     "shortDescription": "",
     "templeName": "Khirachora Gopinatha Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Khirachora_Gopinatha_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3849,7 +3849,7 @@
     "shortDescription": "",
     "templeName": "Konark Sun Temples",
     "websiteUrl": "https://en.wikipedia.org//wiki/Konark_Sun_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3867,7 +3867,7 @@
     "shortDescription": "",
     "templeName": "Maa Kichakeshwari Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Kichakeshwari_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3885,7 +3885,7 @@
     "shortDescription": "",
     "templeName": "Lingaraja Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Lingaraj_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3903,7 +3903,7 @@
     "shortDescription": "",
     "templeName": "Tara Tarini Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Maa_Taratarini_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3921,7 +3921,7 @@
     "shortDescription": "",
     "templeName": "Madanesvara Siva Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Madneswar_Siva_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3939,7 +3939,7 @@
     "shortDescription": "",
     "templeName": "Mahabhoi Sasana Tank",
     "websiteUrl": "https://en.wikipedia.org//wiki/Mahabhoi_Sasana_Tank"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3957,7 +3957,7 @@
     "shortDescription": "",
     "templeName": "Mahakala-Mahakali Temple.",
     "websiteUrl": "https://en.wikipedia.org//wiki/Mahakala-Mahakali_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3975,7 +3975,7 @@
     "shortDescription": "",
     "templeName": "Mangalesvara Siva Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Mangalesvara_Siva_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -3993,7 +3993,7 @@
     "shortDescription": "",
     "templeName": "Manibhadresvara Siva Temple \u2013 I.",
     "websiteUrl": "https://en.wikipedia.org//wiki/Manibhadresvara_Siva_Temple_%E2%80%93_I"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4011,7 +4011,7 @@
     "shortDescription": "",
     "templeName": "Manibhadresvara Temple \u2013 II",
     "websiteUrl": "https://en.wikipedia.org//wiki/Manibhadresvara_Temple_%E2%80%93_II"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4029,7 +4029,7 @@
     "shortDescription": "",
     "templeName": "Manikeswari Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Manikeshwari_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4047,7 +4047,7 @@
     "shortDescription": "",
     "templeName": "Mukteshwara Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Mukteshvara_Temple,_Bhubaneswar"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4065,7 +4065,7 @@
     "shortDescription": "",
     "templeName": "Manikeswari Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Manikeshwari_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4083,7 +4083,7 @@
     "shortDescription": "",
     "templeName": "Mahavinayak Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Mahavinayak_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4101,7 +4101,7 @@
     "shortDescription": "",
     "templeName": "Nrusinghanath Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Nrusinghanath_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4119,7 +4119,7 @@
     "shortDescription": "",
     "templeName": "Narayani Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Narayani_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4137,7 +4137,7 @@
     "shortDescription": "",
     "templeName": "Nagesvara Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Nagesvara_Temple,_Bhubaneswar"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4155,7 +4155,7 @@
     "shortDescription": "",
     "templeName": "Nilkantheswar Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Nilkantheswar_Shiva_temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4173,7 +4173,7 @@
     "shortDescription": "",
     "templeName": "Pabaneswara temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Pabaneswara_temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4191,7 +4191,7 @@
     "shortDescription": "",
     "templeName": "Paschimesvara Siva Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Paschimesvara_Siva_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4209,7 +4209,7 @@
     "shortDescription": "",
     "templeName": "Pataleswar Siva Temple \u2013 II",
     "websiteUrl": "https://en.wikipedia.org//wiki/Patalesvara_Siva_Temple_%E2%80%93_II"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4227,7 +4227,7 @@
     "shortDescription": "",
     "templeName": "Pataleswar Siva Temple \u2013 III",
     "websiteUrl": "https://en.wikipedia.org//wiki/Patalesvara_Siva_Temple_%E2%80%93_III"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4245,7 +4245,7 @@
     "shortDescription": "",
     "templeName": "Papanasini Siva Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Papanasini_Siva_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4263,7 +4263,7 @@
     "shortDescription": "",
     "templeName": "Parsurameswara Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Parsurameswar_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4281,7 +4281,7 @@
     "shortDescription": "",
     "templeName": "Rajarani Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Rajarani_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4299,7 +4299,7 @@
     "shortDescription": "",
     "templeName": "Ramachandi Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Ramachandi_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4317,7 +4317,7 @@
     "shortDescription": "",
     "templeName": "Samleswari Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Samaleswari_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4335,7 +4335,7 @@
     "shortDescription": "",
     "templeName": "Sanisvara Siva Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Sanisvara_Siva_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4353,7 +4353,7 @@
     "shortDescription": "",
     "templeName": "Subarnesvara Siva temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Subarnesvara_Siva_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4371,7 +4371,7 @@
     "shortDescription": "",
     "templeName": "Suka temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Suka_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4389,7 +4389,7 @@
     "shortDescription": "",
     "templeName": "Sukutesvara temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Sukutesvara_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4407,7 +4407,7 @@
     "shortDescription": "",
     "templeName": "Sundaresvara Siva temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Sundaresvara_Siva_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4425,7 +4425,7 @@
     "shortDescription": "",
     "templeName": "Svapnesvara Siva temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Svapnesvara_Siva_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4443,7 +4443,7 @@
     "shortDescription": "",
     "templeName": "Swarnadhisvara Siva temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Swarnadhisvara_Siva_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4461,7 +4461,7 @@
     "shortDescription": "",
     "templeName": "Talesvara Siva Temple \u2013 I",
     "websiteUrl": "https://en.wikipedia.org//wiki/Talesvara_Siva_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4479,7 +4479,7 @@
     "shortDescription": "",
     "templeName": "Talesavara_Siva_temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Talesavara_Siva_Temple_%E2%80%93_II"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4497,7 +4497,7 @@
     "shortDescription": "",
     "templeName": "Tirthesvara Siva temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Tirthesvara_Siva_temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4515,7 +4515,7 @@
     "shortDescription": "",
     "templeName": "The Leaning Temple of Huma",
     "websiteUrl": "https://en.wikipedia.org//wiki/The_Leaning_Temple_of_Huma"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4533,7 +4533,7 @@
     "shortDescription": "",
     "templeName": "Uttaresvara Siva Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Uttaresvara_Siva_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4551,7 +4551,7 @@
     "shortDescription": "",
     "templeName": "Vishnu Temple, Bhubaneswar",
     "websiteUrl": "https://en.wikipedia.org//wiki/Vishnu_Temple,_Bhubaneswar"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4569,7 +4569,7 @@
     "shortDescription": "",
     "templeName": "Visvanatha Shiva Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Visvanatha_Shiva_Temple,_Bhubaneswar"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4587,7 +4587,7 @@
     "shortDescription": "",
     "templeName": "Baitala deu\u1e37a",
     "websiteUrl": "https://en.wikipedia.org//wiki/Vaital_Deula"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4605,7 +4605,7 @@
     "shortDescription": "",
     "templeName": "Yameshwar Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Yameshwar_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4623,7 +4623,7 @@
     "shortDescription": "",
     "templeName": "Durgiana Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Durgiana_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4641,7 +4641,7 @@
     "shortDescription": "",
     "templeName": "Birla Mandir, Jaipur",
     "websiteUrl": "https://en.wikipedia.org//wiki/Birla_Mandir,_Jaipur"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4659,7 +4659,7 @@
     "shortDescription": "",
     "templeName": "Brahma Temple at Pushkar",
     "websiteUrl": "https://en.wikipedia.org//wiki/Brahma_Temple,_Pushkar"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4677,7 +4677,7 @@
     "shortDescription": "",
     "templeName": "Karni Mata Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Karni_Mata_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4695,7 +4695,7 @@
     "shortDescription": "",
     "templeName": "Salasar Balaji",
     "websiteUrl": "https://en.wikipedia.org//wiki/Salasar_Balaji"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4713,7 +4713,7 @@
     "shortDescription": "",
     "templeName": "Kaila Devi",
     "websiteUrl": "https://en.wikipedia.org//wiki/Kaila_devi"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4731,7 +4731,7 @@
     "shortDescription": "",
     "templeName": "Mahendipur Balaji Ji [Hanuman Ji] Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Mehandipur_Balaji_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4749,7 +4749,7 @@
     "shortDescription": "",
     "templeName": "Narsinghji Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Narsinghji_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4767,7 +4767,7 @@
     "shortDescription": "",
     "templeName": "Nakkash Ki Devi - Gomti Dham",
     "websiteUrl": "https://en.wikipedia.org//wiki/Nakkash_Ki_Devi_-_Gomti_Dham"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4785,7 +4785,7 @@
     "shortDescription": "",
     "templeName": "Kyarda Hanuman Ji Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Kyarda_Hanumanji_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4803,7 +4803,7 @@
     "shortDescription": "",
     "templeName": "Charbhuja",
     "websiteUrl": "https://en.wikipedia.org//wiki/Charbhuja"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4821,7 +4821,7 @@
     "shortDescription": "",
     "templeName": "Eklingji, Harihara temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Eklingji"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4839,7 +4839,7 @@
     "shortDescription": "",
     "templeName": "Hanuman Tok",
     "websiteUrl": "https://en.wikipedia.org//wiki/Hanuman_Tok"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4857,7 +4857,7 @@
     "shortDescription": "",
     "templeName": "Kirateshwar Mahadev Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Kirateshwar_Mahadev_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4875,7 +4875,7 @@
     "shortDescription": "",
     "templeName": "Thakurbari Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Thakurbari_Temple,_Gangtok"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4893,7 +4893,7 @@
     "shortDescription": "",
     "templeName": "Karpaka Vinayakar Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Karpaka_Vinayakar_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4911,7 +4911,7 @@
     "shortDescription": "",
     "templeName": "Ucchi Pillayar Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Ucchi_Pillayar_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4929,7 +4929,7 @@
     "shortDescription": "",
     "templeName": "Arulmigu Meenakshi Sundareshwarar Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Meenakshi_Amman_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4947,7 +4947,7 @@
     "shortDescription": "",
     "templeName": "Arulmigu Dhandayuthapani Swamy Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Palani_Murugan_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4965,7 +4965,7 @@
     "shortDescription": "",
     "templeName": "Arulmigu Swaminatha Swamy Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Swamimalai_Murugan_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -4983,7 +4983,7 @@
     "shortDescription": "",
     "templeName": "Arulmigu Subramaniya Swamy Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Thiruchendur_Murugan_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5001,7 +5001,7 @@
     "shortDescription": "",
     "templeName": "Thiruparankundram Murugan temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Tirupparankunram_Murugan_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5019,7 +5019,7 @@
     "shortDescription": "",
     "templeName": "Arulmigu Subramaniya Swamy Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Thiruthani_Murugan_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5037,7 +5037,7 @@
     "shortDescription": "",
     "templeName": "Arulmigu Solaimalai Murugan Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Pazhamudircholai"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5055,7 +5055,7 @@
     "shortDescription": "",
     "templeName": "Sikkal Singaravelar Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Sikkal_Singaravelan_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5073,7 +5073,7 @@
     "shortDescription": "",
     "templeName": "Thindal Murugan Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Thindal_Murugan_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5091,7 +5091,7 @@
     "shortDescription": "",
     "templeName": "Pachaimalai Subramanya Swamy Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Pachaimalai_Subramanya_Swamy_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5109,7 +5109,7 @@
     "shortDescription": "",
     "templeName": "Nellaiappar Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Nellaiappar_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5127,7 +5127,7 @@
     "shortDescription": "",
     "templeName": "Brihadisvara Temple, Thanjavur",
     "websiteUrl": "https://en.wikipedia.org//wiki/Brihadeeswarar_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5145,7 +5145,7 @@
     "shortDescription": "",
     "templeName": "Vaitheeswaran Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Vaitheeswaran_Koil"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5163,7 +5163,7 @@
     "shortDescription": "",
     "templeName": "Jalakandeswarar Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Jalakandeswarar_Temple,_Vellore"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5181,7 +5181,7 @@
     "shortDescription": "",
     "templeName": "Kapaleeshwarar Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Kapaleeshwarar_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5199,7 +5199,7 @@
     "shortDescription": "",
     "templeName": "Sri Ramanathaswamy Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Ramanathaswamy_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5217,7 +5217,7 @@
     "shortDescription": "",
     "templeName": "Thiruvanaikaval",
     "websiteUrl": "https://en.wikipedia.org//wiki/Jambukeswarar_Temple,_Thiruvanaikaval"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5235,7 +5235,7 @@
     "shortDescription": "",
     "templeName": "Arunachalesvara Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Annamalaiyar_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5253,7 +5253,7 @@
     "shortDescription": "",
     "templeName": "Chidambaram Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Thillai_Nataraja_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5271,7 +5271,7 @@
     "shortDescription": "",
     "templeName": "Vedapureeswarar Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Vedapureeswarar_Temple,_Puducherry"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5289,7 +5289,7 @@
     "shortDescription": "",
     "templeName": "Thyagarajaswami Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Thyagaraja_Temple,_Tiruvarur"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5307,7 +5307,7 @@
     "shortDescription": "",
     "templeName": "Ekambareswarar Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Ekambareswarar_Temple_(Kanchipuram)"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5325,7 +5325,7 @@
     "shortDescription": "",
     "templeName": "Vriddhagiriswarar Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Vriddhagiriswarar_Temple,_Vriddhachalam"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5343,7 +5343,7 @@
     "shortDescription": "",
     "templeName": "Nageswaran Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Nageswaraswamy_Temple,_Kumbakonam"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5361,7 +5361,7 @@
     "shortDescription": "",
     "templeName": "Sangameswarar Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Sangameswarar_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5379,7 +5379,7 @@
     "shortDescription": "",
     "templeName": "Natadreeswarar Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Natadreeswarar_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5397,7 +5397,7 @@
     "shortDescription": "",
     "templeName": "Brahmapureeswarar Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Brahmapureeswarar_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5415,7 +5415,7 @@
     "shortDescription": "",
     "templeName": "Sangameswarar Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Sangameswarar_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5433,7 +5433,7 @@
     "shortDescription": "",
     "templeName": "Uppiliappan Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Oppliyappan_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5451,7 +5451,7 @@
     "shortDescription": "",
     "templeName": null,
     "websiteUrl": "https://en.wikipedia.org//wiki/Ranganathaswamy_Temple,_Srirangam"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5469,7 +5469,7 @@
     "shortDescription": "",
     "templeName": "Anjaneya Temple, Ayippettai",
     "websiteUrl": "https://en.wikipedia.org//wiki/Sri_Rama_Bhaktha_Anjaneyar_temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5487,7 +5487,7 @@
     "shortDescription": "",
     "templeName": "Anjaneya Temple, Nanganallur",
     "websiteUrl": "https://en.wikipedia.org//wiki/Anjaneya_Temple,_Nanganallur"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5505,7 +5505,7 @@
     "shortDescription": "",
     "templeName": "Punnainallur Mariamman",
     "websiteUrl": "https://en.wikipedia.org//wiki/PunnaiNallur_Mariamman"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5523,7 +5523,7 @@
     "shortDescription": "",
     "templeName": "Tirunallar Dharbaranyeswarar Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Tirunallar_Dharbaranyeswarar_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5541,7 +5541,7 @@
     "shortDescription": "",
     "templeName": "Narasimhaswamy Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Narasimhaswamy_Temple,_Namakkal"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5559,7 +5559,7 @@
     "shortDescription": "",
     "templeName": "Namakkal Anjaneyar Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Namakkal_Anjaneyar_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5577,7 +5577,7 @@
     "shortDescription": "",
     "templeName": "Arthan\u0101reeswar\u0101 temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Ardhanareeswarar_temple,_Tiruchengode"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5595,7 +5595,7 @@
     "shortDescription": "",
     "templeName": "Arulmigu Thirumurugan Thirukovil, Marudhamalai",
     "websiteUrl": "https://en.wikipedia.org//wiki/Marudhamalai_(temple)"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5613,7 +5613,7 @@
     "shortDescription": "",
     "templeName": "Thanumalayan Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Thanumalayan_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5631,7 +5631,7 @@
     "shortDescription": "",
     "templeName": "Koodal Azhagar Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Koodal_Azhagar_temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5649,7 +5649,7 @@
     "shortDescription": "",
     "templeName": "Bannari Mariamman Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Bannari_Amman_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5667,7 +5667,7 @@
     "shortDescription": "",
     "templeName": "Samayapuram Mariamman Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Samayapuram_Mariamman_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5685,7 +5685,7 @@
     "shortDescription": "",
     "templeName": "Gnana Saraswati Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Gnana_Saraswati_Temple,_Basar"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5703,7 +5703,7 @@
     "shortDescription": "",
     "templeName": "Ashtalakshmi Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Ashtalakshmi_Temple,_Hyderabad"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5721,7 +5721,7 @@
     "shortDescription": "",
     "templeName": "Chilkur Balaji Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Chilkur_Balaji_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5739,7 +5739,7 @@
     "shortDescription": "",
     "templeName": "Hyderabad Kalibari",
     "websiteUrl": "https://en.wikipedia.org//wiki/Hyderabad_Kalibari"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5757,7 +5757,7 @@
     "shortDescription": "",
     "templeName": "Karmanghat Hanuman Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Karmanghat_Hanuman_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5775,7 +5775,7 @@
     "shortDescription": "",
     "templeName": "Ujjaini Mahakali Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Ujjaini_Mahakali_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5793,7 +5793,7 @@
     "shortDescription": "",
     "templeName": "Sitaram Bagh temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Sitaram_Bagh_temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5811,7 +5811,7 @@
     "shortDescription": "",
     "templeName": "Kondagattu Anjaneya Swamy Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Kondagattu"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5829,7 +5829,7 @@
     "shortDescription": "",
     "templeName": "Sita Ramachandraswamy temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Sita_Ramachandraswamy_temple,_Bhadrachalam"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5847,7 +5847,7 @@
     "shortDescription": "",
     "templeName": "Yadadrigutta Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Yadagirigutta_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5865,7 +5865,7 @@
     "shortDescription": "",
     "templeName": "Dichpally Ramalayam",
     "websiteUrl": "https://en.wikipedia.org//wiki/Dichpally_Ramalayam"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5883,7 +5883,7 @@
     "shortDescription": "",
     "templeName": "Keesaragutta",
     "websiteUrl": "https://en.wikipedia.org//wiki/Keesaragutta_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5901,7 +5901,7 @@
     "shortDescription": "",
     "templeName": "Anathagiri temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Ananthagiri_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5919,7 +5919,7 @@
     "shortDescription": "",
     "templeName": "Bhadrakali Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Bhadrakali_Temple,_Warangal"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5937,7 +5937,7 @@
     "shortDescription": "",
     "templeName": "Komuravelli Mallanna Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Komrelly_Mallanna_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5955,7 +5955,7 @@
     "shortDescription": "",
     "templeName": "Padmakshi Devasthanam",
     "websiteUrl": "https://en.wikipedia.org//wiki/Padmakshi_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5973,7 +5973,7 @@
     "shortDescription": "",
     "templeName": "Ramappa Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Ramappa_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -5991,7 +5991,7 @@
     "shortDescription": "",
     "templeName": "Thousand Pillar Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Thousand_Pillar_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -6009,7 +6009,7 @@
     "shortDescription": "",
     "templeName": "Sri Raja Rajeswara Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Raja_Rajeswara_Temple,_Vemulawada"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -6027,7 +6027,7 @@
     "shortDescription": "",
     "templeName": "Kaleshwara Mukteswara Swamy Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Kaleshwara_Mukteswara_Swamy_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -6045,7 +6045,7 @@
     "shortDescription": "",
     "templeName": "Chaya Someswara Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Chaya_Someswara_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -6063,7 +6063,7 @@
     "shortDescription": "",
     "templeName": "Jagannath Temple, Hyderabad",
     "websiteUrl": "https://en.wikipedia.org//wiki/Jagannath_Temple,_Hyderabad"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -6081,7 +6081,7 @@
     "shortDescription": "",
     "templeName": "Sanghi Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Sanghi_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -6099,7 +6099,7 @@
     "shortDescription": "",
     "templeName": null,
     "websiteUrl": "https://en.wikipedia.org//wiki/Ranganathaswamy_Temple,_Jiyaguda"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -6117,7 +6117,7 @@
     "shortDescription": "",
     "templeName": "Jogulamba Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Alampur_Jogulamba_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -6135,7 +6135,7 @@
     "shortDescription": "",
     "templeName": "Alampur Navabrahma Temples",
     "websiteUrl": "https://en.wikipedia.org//wiki/Alampur_Navabrahma_Temples"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -6153,7 +6153,7 @@
     "shortDescription": "",
     "templeName": "Sri Venkateshwara Swamy Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Jamalapuram_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -6171,7 +6171,7 @@
     "shortDescription": "",
     "templeName": "Tripura Sundari Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Tripura_Sundari_temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -6189,7 +6189,7 @@
     "shortDescription": "",
     "templeName": "Jageshwar Temples",
     "websiteUrl": "https://en.wikipedia.org//wiki/Jageshwar"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -6207,7 +6207,7 @@
     "shortDescription": "",
     "templeName": "Badrinath Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Badrinath_temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -6225,7 +6225,7 @@
     "shortDescription": "",
     "templeName": "Rudranath",
     "websiteUrl": "https://en.wikipedia.org//wiki/Rudranath"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -6243,7 +6243,7 @@
     "shortDescription": "",
     "templeName": "Baleshwar Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Baleshwar_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -6261,7 +6261,7 @@
     "shortDescription": "",
     "templeName": "Mahasu Devta Temple, Hanol",
     "websiteUrl": "https://en.wikipedia.org//wiki/Mahasu_Devta_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -6279,7 +6279,7 @@
     "shortDescription": "",
     "templeName": "Chandi Devi Temple, Haridwar",
     "websiteUrl": "https://en.wikipedia.org//wiki/Chandi_Devi_Temple,_Haridwar"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -6297,7 +6297,7 @@
     "shortDescription": "",
     "templeName": "Daksheswar Mahadev Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Daksheswara_Mahadev_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -6315,7 +6315,7 @@
     "shortDescription": "",
     "templeName": "Mansa Devi Temple, Haridwar",
     "websiteUrl": "https://en.wikipedia.org//wiki/Mansa_Devi_Temple,_Haridwar"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -6333,7 +6333,7 @@
     "shortDescription": "",
     "templeName": "Maya Devi Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Maya_Devi_Temple,_Haridwar"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -6351,7 +6351,7 @@
     "shortDescription": "",
     "templeName": "Neelkanth Mahadev Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Neelkanth_Mahadev_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -6369,7 +6369,7 @@
     "shortDescription": "",
     "templeName": "Kedarnath Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Kedarnath_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -6387,7 +6387,7 @@
     "shortDescription": "",
     "templeName": "Madhyamaheshwar",
     "websiteUrl": "https://en.wikipedia.org//wiki/Madhyamaheshwar"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -6405,7 +6405,7 @@
     "shortDescription": "",
     "templeName": "Triyuginarayan Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Triyuginarayan_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -6423,7 +6423,7 @@
     "shortDescription": "",
     "templeName": "Ukhimath",
     "websiteUrl": "https://en.wikipedia.org//wiki/Ukhimath"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -6441,7 +6441,7 @@
     "shortDescription": "",
     "templeName": "Surkanda Devi",
     "websiteUrl": "https://en.wikipedia.org//wiki/Surkanda_Devi"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -6459,7 +6459,7 @@
     "shortDescription": "",
     "templeName": "Moteshwar Mahadev",
     "websiteUrl": "https://en.wikipedia.org//wiki/Moteshwar_Mahadev"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -6477,7 +6477,7 @@
     "shortDescription": "",
     "templeName": "Gorakhnath Math",
     "websiteUrl": "https://en.wikipedia.org//wiki/Gorakhnath_Math"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -6495,7 +6495,7 @@
     "shortDescription": "",
     "templeName": "Waneshwar Mahadev Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Waneshwar_Mahadev_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -6513,7 +6513,7 @@
     "shortDescription": "",
     "templeName": "Ved Mata Gayatri Mandir",
     "websiteUrl": "https://en.wikipedia.org//wiki/Ved_Mata_Gaytri_Mandir"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -6531,7 +6531,7 @@
     "shortDescription": "",
     "templeName": "Prem Mandir",
     "websiteUrl": "https://en.wikipedia.org//wiki/Prem_Mandir_Vrindavan"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -6549,7 +6549,7 @@
     "shortDescription": "",
     "templeName": "Sri Sri Bankey Bihari Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Banke_Bihari_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -6567,7 +6567,7 @@
     "shortDescription": "",
     "templeName": "Shri Dwarkadheesh Mandir",
     "websiteUrl": "https://en.wikipedia.org//wiki/Dwarkadheesh_temple_Mathura"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -6585,7 +6585,7 @@
     "shortDescription": "",
     "templeName": "Krishna Janmasthan Temple Complex",
     "websiteUrl": "https://en.wikipedia.org//wiki/Krishnajanmabhoomi"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -6603,7 +6603,7 @@
     "shortDescription": "",
     "templeName": "Sankat Mochan Hanuman Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Sankat_Mochan_Hanuman_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -6621,7 +6621,7 @@
     "shortDescription": "",
     "templeName": "Kashi Vishwanath Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Kashi_Vishwanath_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -6639,7 +6639,7 @@
     "shortDescription": "",
     "templeName": "Lodheshwar Mahadev Mandir",
     "websiteUrl": "https://en.wikipedia.org//wiki/Lodeshwar_Mahadev_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -6657,7 +6657,7 @@
     "shortDescription": "",
     "templeName": "Bharat Mata Mandir",
     "websiteUrl": "https://en.wikipedia.org//wiki/Bharat_Mata_Mandir"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -6675,7 +6675,7 @@
     "shortDescription": "",
     "templeName": "Kalighat Kali Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Kalighat_Kali_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -6693,7 +6693,7 @@
     "shortDescription": "",
     "templeName": "Dakshineswar Kali Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Dakshineswar_Kali_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -6711,7 +6711,7 @@
     "shortDescription": "",
     "templeName": "Bargabhima temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Bargabhima_temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -6729,7 +6729,7 @@
     "shortDescription": "",
     "templeName": "Madangopal Jiu Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Madanmohan-jiu_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -6747,7 +6747,7 @@
     "shortDescription": "",
     "templeName": "Kalyaneshwari Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Kalyaneshwari_temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -6765,7 +6765,7 @@
     "shortDescription": "",
     "templeName": "Mahakal Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Mahakal_Temple,_Darjeeling"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -6783,7 +6783,7 @@
     "shortDescription": "",
     "templeName": "Birla Mandir",
     "websiteUrl": "https://en.wikipedia.org//wiki/Birla_Mandir,_Kolkata"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -6801,7 +6801,7 @@
     "shortDescription": "",
     "templeName": "Bhavatarini Shmashanpith Kali Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Bhavatarini_Shmashanpith_Kali_Temple"
-}
+},
 {
     "address": "",
     "businessHours": "0",
@@ -6819,4 +6819,4 @@
     "shortDescription": "",
     "templeName": "Begunbari Kali Temple",
     "websiteUrl": "https://en.wikipedia.org//wiki/Begunbari_Kali_Temple"
-}
+},

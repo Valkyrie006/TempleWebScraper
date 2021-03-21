@@ -116,4 +116,4 @@ for line in lines:
             temple["city"] = child.find('td').string
 
     if temple["city"] != "" and temple["region"] != "" and temple["country"] != "" and temple["templeName"] != "" and temple["deity"] != "" and temple["religion"] != "" :
-        print(json.dumps(temple, indent=4, sort_keys=True))
+        print(json.dumps(temple, indent=4, sort_keys=True) + ",")
