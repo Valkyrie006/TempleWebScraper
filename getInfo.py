@@ -1,5 +1,5 @@
 import requests, pprint, json
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, NavigableString, Tag
 
 # URL = "https://en.wikipedia.org/wiki/List_of_Hindu_temples_in_India"
 
@@ -13,7 +13,7 @@ from bs4 import BeautifulSoup
 fileRead = open('./templeLinks.txt', 'r')
 lines = fileRead.readlines()
 
-cnt = 0
+# cnt = 0
 for line in lines:
     # cnt += 1
     # if cnt >= 3:
@@ -114,6 +114,33 @@ for line in lines:
         # city(district)
         if child.find('th') and (child.find('th').string == "District") and child.find('td') and child.find('td').string:
             temple["city"] = child.find('td').string
-
-    if temple["city"] != "" and temple["region"] != "" and temple["country"] != "" and temple["templeName"] != "" and temple["deity"] != "" and temple["religion"] != "" :
+    
+    # Description
+    des = soup.find(class_ = 'mw-parser-output')
+    des = des.find_all(['p', 'h2'])
+    for pInDes in des:
+        if isinstance(pInDes, NavigableString) :
+            continue
+        if pInDes.name == 'h2' :
+            break
+        elif isinstance(pInDes, Tag) :
+            # print(pInDes.get_text())
+            if pInDes.get_text() == None or pInDes.get_text() == '\n' :
+                continue
+            f = 1
+            for c in pInDes.get_text():
+                if c != None and c == '[' :
+                    f = 1-f
+                if f and c != None:
+                    temple["detailedDescription"] += c
+                if c != None and c == ']' :
+                    f = 1-f
+            # pInDes.find_all(['b', 'a'])
+            # for aInDes in pInDes:
+            #     if aInDes.string is not None and aInDes.string[0] != ' ':
+            #         print("#" + aInDes.string + "#")
+            #         temple["detailedDescription"] += aInDes.string
+    # print(temple["detailedDescription"])
+    temple["shortDescription"] = temple["detailedDescription"][0:min(200, len(temple["detailedDescription"]))]
+    if temple["city"] != "" and temple["region"] != "" and temple["country"] != "" and temple["templeName"] != "" and temple["deity"] != "" and temple["religion"] != "" and temple["shortDescription"] != "" and temple["detailedDescription"] != "":
         print(json.dumps(temple, indent=4, sort_keys=True) + ",")
