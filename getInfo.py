@@ -13,11 +13,11 @@ from bs4 import BeautifulSoup, NavigableString, Tag
 fileRead = open('./templeLinks.txt', 'r')
 lines = fileRead.readlines()
 
-# cnt = 0
+cnt = 0
 for line in lines:
-    # cnt += 1
-    # if cnt >= 3:
-    #     break
+    cnt += 1
+    if cnt > 100 :
+        break
     URL = line.strip()
     page = requests.get(URL)
 
@@ -43,10 +43,13 @@ for line in lines:
         "businessHours": "0"
     }
     # image 
-    img = soup.find(class_='image')
-    if img : 
-        for attributes in img:
-            temple["headerImageUrl"] = "https://en.m.wikipedia.org" + img['href']
+    img = soup.find(class_='infobox-image')
+    if img :
+        img = img.find('a')
+        if img:
+            img = img.find('img')
+            if img.has_attr('src'):
+                temple['headerImageUrl'] = "https:" + img['src']
     
     # templeName
     templeName = soup.find('h1')
@@ -142,5 +145,5 @@ for line in lines:
             #         temple["detailedDescription"] += aInDes.string
     # print(temple["detailedDescription"])
     temple["shortDescription"] = temple["detailedDescription"][0:min(200, len(temple["detailedDescription"]))]
-    if temple["city"] != "" and temple["region"] != "" and temple["country"] != "" and temple["templeName"] != "" and temple["deity"] != "" and temple["religion"] != "" and temple["shortDescription"] != "" and temple["detailedDescription"] != "":
+    if temple["city"] != "" and temple["city"] is not None and temple["region"] != "" and temple["region"] is not None and temple["country"] != "" and temple["country"] is not None and temple["templeName"] != "" and temple["templeName"] is not None and temple["deity"] != "" and temple["deity"] is not None and temple["religion"] != "" and temple["religion"] is not None and temple["shortDescription"] != "" and temple["shortDescription"] is not None and temple["detailedDescription"] != "" and temple["detailedDescription"] is not None:
         print(json.dumps(temple, indent=4, sort_keys=True) + ",")
